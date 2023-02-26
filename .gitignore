@@ -1,0 +1,4 @@
+build/
+src/fixedpointnumber/FixedPointNumber32.hx
+src/fixedpointnumber/FixedPointNumberBuilder.hx
+test/Test2.hx

@@ -1,0 +1,12 @@
+{
+   "name": "fixed-point-math",
+   "license": "MIT",
+   "tags": ["numbers"],
+   "description": "Lets you write normal numbers in code that function as fixed point numbers",
+   "version": "0.1.0",
+   "releasenote": "First commit",
+   "contributors": [
+      "FryingPan"
+   ],
+   "dependencies": {}
+}

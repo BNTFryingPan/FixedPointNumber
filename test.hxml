@@ -1,0 +1,4 @@
+--class-path ./test/
+--class-path ./src/
+--interp
+--main Test2
